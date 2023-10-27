@@ -1,0 +1,39 @@
+2023-09-19T21:51:38.5378241Z Current runner version: '2.309.0'
+2023-09-19T21:51:38.5407487Z ##[group]Operating System
+2023-09-19T21:51:38.5408327Z Ubuntu
+2023-09-19T21:51:38.5408954Z 22.04.3
+2023-09-19T21:51:38.5409439Z LTS
+2023-09-19T21:51:38.5409934Z ##[endgroup]
+2023-09-19T21:51:38.5410591Z ##[group]Runner Image
+2023-09-19T21:51:38.5411151Z Image: ubuntu-22.04
+2023-09-19T21:51:38.5411748Z Version: 20230911.1.0
+2023-09-19T21:51:38.5412598Z Included Software: https://github.com/actions/runner-images/blob/ubuntu22/20230911.1/images/linux/Ubuntu2204-Readme.md
+2023-09-19T21:51:38.5413606Z Image Release: https://github.com/actions/runner-images/releases/tag/ubuntu22%2F20230911.1
+2023-09-19T21:51:38.5414297Z ##[endgroup]
+2023-09-19T21:51:38.5414856Z ##[group]Runner Image Provisioner
+2023-09-19T21:51:38.5415531Z 2.0.299.1
+2023-09-19T21:51:38.5416038Z ##[endgroup]
+2023-09-19T21:51:38.5417475Z ##[group]GITHUB_TOKEN Permissions
+2023-09-19T21:51:38.5419483Z Actions: write
+2023-09-19T21:51:38.5420156Z Checks: write
+2023-09-19T21:51:38.5420667Z Contents: write
+2023-09-19T21:51:38.5421594Z Deployments: write
+2023-09-19T21:51:38.5422128Z Discussions: write
+2023-09-19T21:51:38.5422779Z Issues: write
+2023-09-19T21:51:38.5423283Z Metadata: read
+2023-09-19T21:51:38.5423859Z Packages: write
+2023-09-19T21:51:38.5424372Z Pages: write
+2023-09-19T21:51:38.5424949Z PullRequests: write
+2023-09-19T21:51:38.5425566Z RepositoryProjects: write
+2023-09-19T21:51:38.5426144Z SecurityEvents: write
+2023-09-19T21:51:38.5426726Z Statuses: write
+2023-09-19T21:51:38.5427281Z ##[endgroup]
+2023-09-19T21:51:38.5431033Z Secret source: Actions
+2023-09-19T21:51:38.5431906Z Prepare workflow directory
+2023-09-19T21:51:38.6207869Z Prepare all required actions
+2023-09-19T21:51:38.6400848Z Getting action download info
+2023-09-19T21:51:38.9385372Z Download action repository 'actions/checkout@v2' (SHA:ee0669bd1cc54295c223e0bb666b733df41de1c5)
+2023-09-19T21:51:39.2776465Z Download action repository 'actions/setup-node@master' (SHA:5e21ff4d9bc1a8cf6de233a3057d20ec6b3fb69d)
+2023-09-19T21:51:39.5771598Z Download action repository 'aws-actions/configure-aws-credentials@v1' (SHA:67fbcbb121271f7775d2e7715933280b06314838)
+2023-09-19T21:51:39.8825348Z Download action repository 'chetan/invalidate-cloudfront-action@v2' (SHA:c384d5f09592318a77b1e5c0c8d4772317e48b25)
+2023-09-19T21:51:40.2512585Z Complete job name: build
